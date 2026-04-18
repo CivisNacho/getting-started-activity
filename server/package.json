@@ -1,5 +1,5 @@
 {
-  "name": "getting-starter-activity-server",
+  "name": "impostor-game-server",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",

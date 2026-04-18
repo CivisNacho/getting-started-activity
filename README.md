@@ -1,6 +1,10 @@
-# Discord Activity: Getting Started Guide
+# Impostor Game
 
-This template is used in the [Building An Activity](https://discord.com/developers/docs/activities/building-an-activity) tutorial in the Discord Developer Docs.
+A multiplayer social deduction game built as a Discord Activity. Players must provide clues to a secret word while trying to identify the Impostor, who doesn't know the word and must blend in.
 
-Read more about building Discord Activities with the Embedded App SDK at [https://discord.com/developers/docs/activities/overview](https://discord.com/developers/docs/activities/overview).
-
+## Features
+- Real-time multiplayer with Socket.io
+- Material 3 Expressive design
+- Multi-language support (English/Spanish)
+- Discord User integration (Names and Avatars)
+- Dynamic game phases (Lobby, Clue, Voting, Results)
