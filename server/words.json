@@ -1,0 +1,18 @@
+{
+  "en": {
+    "Personality": ["Extrovert", "Introvert", "Leader", "Charismatic", "Stoic", "Empathetic", "Optimist", "Pessimist", "Ambitious", "Humble", "Arrogant", "Creative", "Reliable", "Rebellious", "Cynical", "Brave", "Cowardly", "Analytical", "Impulsive", "Stubborn"],
+    "Object": ["Telescope", "Compass", "Violin", "Microscope", "Camera", "Umbrella", "Backpack", "Hammer", "Flashlight", "Book", "Bicycle", "Clock", "Mirror", "Candle", "Suitcase", "Keyboard", "Painting", "Bottle", "Map", "Key"],
+    "Idea": ["Freedom", "Justice", "Democracy", "Infinity", "Entropy", "Nostalgia", "Paradox", "Evolution", "Peace", "Chaos", "Harmony", "Future", "Knowledge", "Ambition", "Success", "Failure", "Time", "Logic", "Emotion", "Faith"],
+    "Place": ["Mountain", "Island", "Library", "Airport", "Museum", "Forest", "Desert", "Castle", "Station", "Market", "Skyscraper", "Ocean", "Park", "Canyon", "Village", "Temple", "Laboratory", "Cafe", "Theater", "Volcano"],
+    "Movie": ["Inception", "Titanic", "Avatar", "Gladiator", "Matrix", "Alien", "Jaws", "Psycho", "Braveheart", "Frozen", "Up", "Coco", "Casablanca", "Seven", "Whiplash", "Parasite", "Batman", "Spider-Man", "Iron Man", "Shrek"],
+    "Animal": ["Elephant", "Dolphin", "Cheetah", "Penguin", "Octopus", "Eagle", "Wolf", "Butterfly", "Kangaroo", "Snake", "Giraffe", "Panda", "Shark", "Owl", "Tiger", "Lion", "Zebra", "Gorilla", "Fox", "Bear"]
+  },
+  "es": {
+    "Personalidad": ["Extrovertido", "Introvertido", "Líder", "Carismático", "Estoico", "Empático", "Optimista", "Pesimista", "Ambicioso", "Humilde", "Arrogante", "Creativo", "Fiable", "Rebelde", "Cínico", "Valiente", "Cobarde", "Analítico", "Impulsivo", "Obstinado"],
+    "Objeto": ["Telescopio", "Brújula", "Violín", "Microscopio", "Cámara", "Paraguas", "Mochila", "Martillo", "Linterna", "Libro", "Bicicleta", "Reloj", "Espejo", "Vela", "Maleta", "Teclado", "Pintura", "Botella", "Mapa", "Llave"],
+    "Idea": ["Libertad", "Justicia", "Democracia", "Infinito", "Entropía", "Nostalgia", "Paradoja", "Evolución", "Paz", "Caos", "Armonía", "Futuro", "Conocimiento", "Ambición", "Éxito", "Fracaso", "Tiempo", "Lógica", "Emoción", "Fe"],
+    "Lugar": ["Montaña", "Isla", "Biblioteca", "Aeropuerto", "Museo", "Bosque", "Desierto", "Castillo", "Estación", "Mercado", "Rascacielos", "Océano", "Parque", "Cañón", "Pueblo", "Templo", "Laboratorio", "Cafetería", "Teatro", "Volcán"],
+    "Película": ["Origen", "Titanic", "Avatar", "Gladiator", "Matrix", "Alien", "Tiburón", "Psicosis", "Braveheart", "Frozen", "Up", "Coco", "Casablanca", "Seven", "Whiplash", "Parásitos", "Batman", "Spider-Man", "Iron Man", "Shrek"],
+    "Animal": ["Elefante", "Delfín", "Guepardo", "Pingüino", "Pulpo", "Águila", "Lobo", "Mariposa", "Canguro", "Serpiente", "Jirafa", "Panda", "Tiburón", "Búho", "Tigre", "León", "Cebra", "Gorila", "Zorro", "Oso"]
+  }
+}
